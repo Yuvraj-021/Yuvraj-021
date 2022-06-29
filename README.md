@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-021&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-021" /> </p>
 
-- 🔭 I’m currently working on [Phishing website Detection](https://github.com/Yuvraj-021/Phishing-Website-Detection)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuvraj-021](https://github.com/Yuvraj-021)
