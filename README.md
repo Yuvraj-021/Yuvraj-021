@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-021&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-021" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuvraj-021](https://github.com/Yuvraj-021)
 
