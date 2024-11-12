@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-021&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-021" /> </p>
  
 Hi, I'm Yuvraj, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India. I love programming & creating webapps, besides this i enjoy playing football & traveling.
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="300" />
   
 **Some highlights about me:**
 
