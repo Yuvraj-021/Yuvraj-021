@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuvraj</h1>
+<h1 align="center">Hey there 👋, I'm Yuvraj</h1>
 <!-- <h3 align="center">A passionate Android / React JS Developer from Nashik</h3> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-yuvrajdeshmukh021-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuvraj-deshmukh-021/)](https://www.linkedin.com/in/yuvraj-deshmukh-021/)
